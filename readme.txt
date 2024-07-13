@@ -1,0 +1,2 @@
+Aktualnie staram się stworzyć w 100 % działające forum internetowe posiadające kilka przydatnych funkcji. Wzoruje się na popularnych
+forach internetowych, starając się wprowadzić jak najwięcej udogodnień dla użytkownika. oraz skleić to w działającą spójną całość. 
